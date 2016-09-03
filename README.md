@@ -1,5 +1,5 @@
-# webpack-vuejs-demo
-webpack+vuejs小测试
+# Vuejs-components-communication
+vuejs组件之间数据通信例子
 
 ##安装
 <pre>
