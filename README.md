@@ -11,3 +11,8 @@ vuejs组件之间数据通信例子，主要文件在src文件夹中，App.vue�
 <pre>
     安装好插件后执行：$ npm run dev
 </pre>
+
+##预览
+<pre>
+    执行无错误后浏览器输入：http://localhost:8080/
+</pre>
